@@ -25,8 +25,8 @@ const Home = () => {
           <h4> A Look at SpaceX Launch History</h4>
           <br>
           </br>
-          <h5>A React Demo Using <a target="_blank" rel="noreferer" href="https://www.apollographql.com/docs/react/">Apollo Client </a><br />Secured With <a target="_blank" rel="noreferer" href="https://www.okta.com/">Okta </a></h5>
-          <h5><a href="https://api.spacex.land/graphql/" target="_blank" rel="noreferer">GraphQL Data Available here</a></h5>
+          <h5>A React Demo Using <a target="_blank" rel="noreferrer" href="https://www.apollographql.com/docs/react/">Apollo Client </a><br />Secured With <a target="_blank" rel="noreferrer" href="https://www.okta.com/">Okta </a></h5>
+          <h5><a href="https://api.spacex.land/graphql/" target="_blank" rel="noreferrer">GraphQL Data Available here</a></h5>
         </Col>
       </Row>
 
@@ -49,7 +49,7 @@ const Home = () => {
 
       <footer className="text-muted text-center">
         <div className="container">
-          <p>A Small demo using <a target="_blank" rel="noreferer" href="https://www.apollographql.com/docs/react/">Apollo Client </a> Secured by <a target="_blank" rel="noreferer" href="https://www.okta.com/">Okta </a></p>
+          <p>A Small demo using <a target="_blank" rel="noreferrer" href="https://www.apollographql.com/docs/react/">Apollo Client </a> Secured by <a target="_blank" rel="noreferrer" href="https://www.okta.com/">Okta </a></p>
           <p>By <a href="https://profile.fishbowlllc.com">Nik Fisher</a></p>
         </div>
       </footer>
